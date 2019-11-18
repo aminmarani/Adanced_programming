@@ -1,0 +1,3 @@
+/root/Project5/files/mongodb/build/Test-build/CMakeFiles/rebuild_cache.dir
+/root/Project5/files/mongodb/build/Test-build/CMakeFiles/test_mongocxx.dir
+/root/Project5/files/mongodb/build/Test-build/CMakeFiles/edit_cache.dir

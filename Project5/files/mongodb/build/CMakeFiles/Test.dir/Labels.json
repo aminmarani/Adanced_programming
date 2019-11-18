@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/Project5/files/mongodb/build/CMakeFiles/Test"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/CMakeFiles/Test.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/CMakeFiles/Test-complete.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-install.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-mkdir.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-download.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-update.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-patch.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-configure.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-build.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-forceconfigure.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Test"
+		],
+		"name" : "Test"
+	}
+}

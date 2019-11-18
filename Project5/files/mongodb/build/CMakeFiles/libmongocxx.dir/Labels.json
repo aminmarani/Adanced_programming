@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/Project5/files/mongodb/build/CMakeFiles/libmongocxx"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/CMakeFiles/libmongocxx.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/CMakeFiles/libmongocxx-complete.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-prefix/src/libmongocxx-stamp/libmongocxx-install.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-prefix/src/libmongocxx-stamp/libmongocxx-mkdir.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-prefix/src/libmongocxx-stamp/libmongocxx-download.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-prefix/src/libmongocxx-stamp/libmongocxx-update.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-prefix/src/libmongocxx-stamp/libmongocxx-patch.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-prefix/src/libmongocxx-stamp/libmongocxx-configure.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-prefix/src/libmongocxx-stamp/libmongocxx-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libmongocxx"
+		],
+		"name" : "libmongocxx"
+	}
+}

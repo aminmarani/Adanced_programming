@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/Project5/files/mongodb/build/CMakeFiles/libmongoc"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/CMakeFiles/libmongoc.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/CMakeFiles/libmongoc-complete.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-install.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-mkdir.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-download.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-update.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-patch.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-configure.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libmongoc"
+		],
+		"name" : "libmongoc"
+	}
+}

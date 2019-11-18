@@ -1,0 +1,12 @@
+
+set(CMAKE_CXX_COMPILER "/usr/bin/c++" CACHE PATH "Initial cache" FORCE)
+set(CMAKE_BUILD_TYPE "" CACHE STRING "Initial cache" FORCE)
+set(CMAKE_INSTALL_PREFIX "/root/Project5/files/mongodb/build/libmongocxx-install" CACHE PATH "Initial cache" FORCE)
+set(BUILD_SHARED_LIBS "ON" CACHE BOOL "Initial cache" FORCE)
+set(ENABLE_TESTS "OFF" CACHE BOOL "Initial cache" FORCE)
+set(ENABLE_EXAMPLES "OFF" CACHE BOOL "Initial cache" FORCE)
+set(BSONCXX_POLY_USE_BOOST "OFF" CACHE BOOL "Initial cache" FORCE)
+set(BSONCXX_POLY_USE_MNMLSTC "ON" CACHE BOOL "Initial cache" FORCE)
+set(BSONCXX_POLY_USE_STD "OFF" CACHE BOOL "Initial cache" FORCE)
+set(libmongoc-1.0_DIR "/root/Project5/files/mongodb/build/libmongoc-install/lib/cmake/libmongoc-1.0/" CACHE PATH "Initial cache" FORCE)
+set(libbson-1.0_DIR "/root/Project5/files/mongodb/build/libmongoc-install/lib/cmake/libbson-1.0/" CACHE PATH "Initial cache" FORCE)

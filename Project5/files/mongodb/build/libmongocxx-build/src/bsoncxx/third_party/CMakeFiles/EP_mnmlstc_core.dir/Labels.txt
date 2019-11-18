@@ -1,0 +1,14 @@
+# Target labels
+ EP_mnmlstc_core
+# Source files and their labels
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/CMakeFiles/EP_mnmlstc_core
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/CMakeFiles/EP_mnmlstc_core.rule
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/CMakeFiles/EP_mnmlstc_core-complete.rule
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-install.rule
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-mkdir.rule
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-download.rule
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-update.rule
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-patch.rule
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-configure.rule
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-build.rule
+/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-fix-includes.rule

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/builder_stream_customization.dir/builder_stream_customization.cpp.o  -o builder_stream_customization -Wl,-rpath,/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx ../../src/bsoncxx/libbsoncxx.so.3.3.1 

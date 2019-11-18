@@ -1,0 +1,13 @@
+# Target labels
+ libmongoc
+# Source files and their labels
+/root/Project5/files/mongodb/build/CMakeFiles/libmongoc
+/root/Project5/files/mongodb/build/CMakeFiles/libmongoc.rule
+/root/Project5/files/mongodb/build/CMakeFiles/libmongoc-complete.rule
+/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-install.rule
+/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-mkdir.rule
+/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-download.rule
+/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-update.rule
+/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-patch.rule
+/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-configure.rule
+/root/Project5/files/mongodb/build/libmongoc-prefix/src/libmongoc-stamp/libmongoc-build.rule

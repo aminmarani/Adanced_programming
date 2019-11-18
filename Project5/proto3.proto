@@ -1,0 +1,9 @@
+syntax = "proto3";
+package cse411;
+message Item 
+{
+	int32 num = 1;
+}	
+message Set{
+	repeated Item item = 1;
+}

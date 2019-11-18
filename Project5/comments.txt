@@ -1,0 +1,37 @@
+amin:
+Sorry for bothering u so much. I have difficulties undersanding the whole program:
+the user enter something in html file, ritgh? so we need to connect html5 via c++? but how?
+then we nee to run the server to catch info from Twitter and store them in mango db and response the page the hist? 
+or do we need JS to retrive data from manodb and just show it? what is the final connection of server and histogram, then?
+
+Mohamed:
+I think from the html we send request to the cpprestsdk server , 
+then the server will get tweets from mongodb and send it back to client to show it in html as histogram
+
+Amin : 
+I have one problem here, when we send request to cpprestsdk, we use twitterClient codes(similar) to get the matching tags, right?
+ then we store it in MangoDB as one seperate result?
+ after that how are we going to get mangoDB result to html5 file?
+ And are we just shoing last mangoDB to user or all mangodb or the related one?
+ 
+ 
+Mohamed:
+To get back a response from the server in html , I used something called xmlhttprequest , so from a web browser , 
+the client will enter a query, then we send the query to the server to look for it in mongodb, 
+then the server send back json data to html to show it as histogram
+
+
+
+
+
+
+works:
+1-manage to work with cpprestsdk example // use it to connect to server, mangodb  and get back the result --> Done!
+2-use client.cc to get the result from user //and store it in mangodb
+3-finish loading the result using html5 and JS library
+
+
+
+
+note 1 : change the way u store the data --- tags to store
+/data --> get json from twiter api

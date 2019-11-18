@@ -1,0 +1,14 @@
+# Target labels
+ Test
+# Source files and their labels
+/root/Project5/files/mongodb/build/CMakeFiles/Test
+/root/Project5/files/mongodb/build/CMakeFiles/Test.rule
+/root/Project5/files/mongodb/build/CMakeFiles/Test-complete.rule
+/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-install.rule
+/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-mkdir.rule
+/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-download.rule
+/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-update.rule
+/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-patch.rule
+/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-configure.rule
+/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-build.rule
+/root/Project5/files/mongodb/build/Test-prefix/src/Test-stamp/Test-forceconfigure.rule

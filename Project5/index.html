@@ -1,0 +1,59 @@
+<html>
+
+<head>
+    <title>CSE 411 - Project 5 - Amin Hosseiny Marani</title>
+	
+</head>
+
+<body>
+    <h1>Twitter Trend Visualizer</h1>
+    <input type="text" id="query" />
+    <button id="search">Search</button>
+    <div id="chart" style="margin-top: 5px; width:200px; height:200px;">Chart Area</div>
+	
+</body>
+<script>
+    // Note to students: you should make something much more beautiful and
+    // functional than this... it's just a starting point
+    let search = document.getElementById("search");
+    let query = document.getElementById("query");
+    let chart = document.getElementById("chart");
+	
+	function data_communication(){
+		var xhr = new XMLHttpRequest();
+		//query.value = "a bazi";
+		xhr.onreadystatechange = function (e) {
+			// The request finished and response is ready
+			if (xhr.readyState == 4) {
+					if(xhr.status == 200)
+					{
+					var replydata = JSON.parse(xhr.responseText);
+					//populateImages(replydata.images);
+					query.value = replydata.txt;
+					window.alert(xhr.responseText);
+					}
+			}
+			else {
+				window.alert("server is not ready");
+			}
+			
+		}
+		var url = "http://localhost:12345/" + query.value;
+		xhr.open("GET", url, true);
+		xhr.send();
+	}
+
+    search.addEventListener("click", function () {
+		data_communication();
+
+    }, false);
+	
+	
+
+	
+	
+	
+	
+</script>
+
+</html>

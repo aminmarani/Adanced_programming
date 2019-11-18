@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/getting_values.dir/getting_values.cpp.o  -o getting_values -Wl,-rpath,/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx ../../src/bsoncxx/libbsoncxx.so.3.3.1 

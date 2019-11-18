@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/remove.dir/remove.cpp.o  -o remove -Wl,-rpath,/root/Project5/files/mongodb/build/libmongocxx-build/src/mongocxx:/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx ../../src/mongocxx/libmongocxx.so.3.3.1 ../../src/bsoncxx/libbsoncxx.so.3.3.1 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/mongoc-stat.dir/__/tools/mongoc-stat.c.o  -o mongoc-stat -Wl,-rpath,/root/Project5/files/mongodb/build/libmongoc-build/src/libmongoc:/root/Project5/files/mongodb/build/libmongoc-build/src/libbson libmongoc-1.0.so.0.0.0 -lssl -lcrypto -lrt -lresolv -lz -licuuc ../libbson/libbson-1.0.so.0.0.0 -pthread -lrt -lm 

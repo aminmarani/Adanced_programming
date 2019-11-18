@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/get_values_from_documents.dir/get_values_from_documents.cpp.o  -o get_values_from_documents -Wl,-rpath,/root/Project5/files/mongodb/build/libmongocxx-build/src/mongocxx:/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx ../../src/mongocxx/libmongocxx.so.3.3.1 ../../src/bsoncxx/libbsoncxx.so.3.3.1 

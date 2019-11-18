@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/CMakeFiles/EP_mnmlstc_core"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/CMakeFiles/EP_mnmlstc_core.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/CMakeFiles/EP_mnmlstc_core-complete.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-install.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-mkdir.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-download.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-update.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-patch.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-configure.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-build.rule"
+		},
+		{
+			"file" : "/root/Project5/files/mongodb/build/libmongocxx-build/src/bsoncxx/third_party/EP_mnmlstc_core-prefix/src/EP_mnmlstc_core-stamp/EP_mnmlstc_core-fix-includes.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"EP_mnmlstc_core"
+		],
+		"name" : "EP_mnmlstc_core"
+	}
+}
